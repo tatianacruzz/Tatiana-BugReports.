@@ -1,3 +1,5 @@
 # Tatiana-BugReports.
 
 The purpose of these bug reports is to notify the respective technical support teams of issues affecting user experience on Facebook Marketplace and Instagram. For Facebook Marketplace, the report highlights account suspension despite following guidelines, while for Instagram, it addresses the delayed display of uploaded stories, causing user confusion. By providing detailed steps to reproduce each issue and additional information about devices and operating systems, these reports aim to facilitate swift resolution and enhance user satisfaction with both apps.
+
+On the other hand, the scheduling message functionality in WhatsApp would allow users to compose messages and schedule their sending for specific times, providing flexibility and convenience in communication. All the same, the in-camera Quick Edit mode would give users the ability to apply filters and basic adjustments to newly taken photos before sharing them, thus improving the visual quality of the images quickly and easily.
